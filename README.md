@@ -1,7 +1,8 @@
 # Rainbow
-This is a poen about Rainbows 
+This is a poem about Rainbows 
 Red
 Orange
+Yellow
 Blue
 Indigo
 Violet
