@@ -9,4 +9,3 @@ Indigo
 Violet
 and a cute Teddy Bear
 and a very ugly Teddy Bear
-xxxxx
